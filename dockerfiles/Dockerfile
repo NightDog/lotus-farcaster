@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.10.0b3
 
 # Allow environment variables to be passed as build time arguments
 ARG FREQUENCY=50
